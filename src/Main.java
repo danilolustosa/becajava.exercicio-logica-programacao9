@@ -2,13 +2,6 @@
 public class Main {
 
 	public static void main(String[] args) {
-
-		
-		int totalEleitores = 200;
-		int validos = 10;
-		int brancos = 40;
-		int nulos = 100;
-		
 		
 		Eleicao eleicao = new Eleicao();
 		eleicao.TotalEleitores = 200;
